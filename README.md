@@ -9,3 +9,8 @@ Sample website with plenty of files for demos
 ## new section
 
 ## not commited to remote reop but in local reppos
+
+
+## not added to staging area
+
+replaced a line
